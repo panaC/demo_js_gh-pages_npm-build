@@ -38,7 +38,7 @@ jobs:
           node-version: 22
       - run: |
           npm ci
-          npm build-demo
+          npm run build-demo
           ls -la ./
           ls -laR ./build
           ls -laR ./demo
