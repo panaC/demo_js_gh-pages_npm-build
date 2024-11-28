@@ -40,7 +40,6 @@ jobs:
           npm ci
           npm run build-demo
           ls -la ./
-          ls -laR ./build
           ls -laR ./demo
 
       - name: Setup Pages
