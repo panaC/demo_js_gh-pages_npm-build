@@ -48,3 +48,4 @@ jobs:
           publish_dir: ./build
           publish_branch: build # default: gh-pages
           destination_dir: ./
+          enable_jekyll: true # do not write .nojekyll empty file
