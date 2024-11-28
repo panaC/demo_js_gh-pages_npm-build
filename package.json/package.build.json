@@ -1,0 +1,8 @@
+{
+  "name": "demo_js_gh-pages_npm-build",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "license": "ISC"
+}
